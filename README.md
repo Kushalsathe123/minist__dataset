@@ -65,6 +65,6 @@ Follow the on-screen instructions in the GUI application to draw digits and see 
 
 ## Acknowledgments
 
-- The MNIST dataset is provided by Yann LeCun and can be found [here](http://yann.lecun.com/exdb/mnist/).
+- The MNIST dataset is provided by Yann LeCun and can be found [here]([http://yann.lecun.com/exdb/mnist/](https://pjreddie.com/media/files/mnist_train.csv)).
 - The GUI application design is inspired by various examples and tutorials available online.
 
