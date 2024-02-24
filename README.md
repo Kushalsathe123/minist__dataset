@@ -38,7 +38,7 @@ The project consists of the following components:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/mnist-digit-recognition.git
+gh repo clone Kushalsathe123/minist__dataset
 
 
 2. Install the required Python dependencies:
